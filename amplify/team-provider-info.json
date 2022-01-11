@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nftgallerytest-dev-93254-authRole",
+      "UnauthRoleArn": "arn:aws:iam::667068545104:role/amplify-nftgallerytest-dev-93254-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::667068545104:role/amplify-nftgallerytest-dev-93254-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-nftgallerytest-dev-93254-deployment",
+      "UnauthRoleName": "amplify-nftgallerytest-dev-93254-unauthRole",
+      "StackName": "amplify-nftgallerytest-dev-93254",
+      "StackId": "arn:aws:cloudformation:us-east-1:667068545104:stack/amplify-nftgallerytest-dev-93254/86d7ceb0-6e4d-11ec-bbb4-1221af8cbbab",
+      "AmplifyAppId": "d28llluhb4jgjy"
+    },
+    "categories": {
+      "auth": {
+        "nftgallerytest50197afb": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "resourceName": "profiles",
+  "policyUUID": "9e45be21",
+  "bucketName": "nftgallerytest5438cf4b9e2b4450b1d247ace03c67b",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Trigger83b8f695",
+  "groupAccess": {}
+}
